@@ -1,3 +1,4 @@
+<img align="center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
 <h1 align="center">Hi 👋, I'm nnnozimjon</h1>
 <h3 align="center">Proficient in a range of programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and SQL. Skilled in both front-end and back-end development, with a proven track record of delivering high-quality, scalable solutions that meet business objectives. Dedicated to staying up-to-date with the latest technologies and industry trends, and committed to continuous learning and professional development.</h3>
 
