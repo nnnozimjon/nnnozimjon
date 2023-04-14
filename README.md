@@ -4,8 +4,8 @@
 <h3 align="center">Proficient in a range of programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and SQL. Skilled in both front-end and back-end development, with a proven track record of delivering high-quality, scalable solutions that meet business objectives. Dedicated to staying up-to-date with the latest technologies and industry trends, and committed to continuous learning and professional development.</h3>
 
 <p align="left"> <a href="https://twitter.com/naziml0l" target="blank"><img src="https://img.shields.io/twitter/follow/naziml0l?logo=twitter&style=for-the-badge" alt="naziml0l" /></a> </p>
-
-- 🔭 I’m currently working on **Alif Technology**<p align="left"><a href="https://alif.tj/?lang=tj" target="blank"><img src="https://alif.tj/static/media/logo.1d1f1764.svg" width="80" height="80"></a></p>
+<p align="left">currently working<a href="https://alif.tj/?lang=tj" target="blank"><img src="https://alif.tj/static/media/logo.1d1f1764.svg" width="80" height="80"></a></p>
+- 🔭 I’m currently working on **Alif Technology**
 
 - 🌱 I’m currently learning **Vue JS, Angular**
 
