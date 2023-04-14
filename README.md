@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/naziml0l" target="blank"><img src="https://img.shields.io/twitter/follow/naziml0l?logo=twitter&style=for-the-badge" alt="naziml0l" /></a> </p>
 
-- 🔭 I’m currently working on **Alif Technology** <img src="https://alif.tj/static/media/logo.1d1f1764.svg" width="80" height="80"/>
+<p>- 🔭 I’m currently working on **Alif Technology**<img src="https://alif.tj/static/media/logo.1d1f1764.svg" width="80" height="80"></p>
 
 - 🌱 I’m currently learning **Vue JS, Angular**
 
